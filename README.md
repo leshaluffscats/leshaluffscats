@@ -2,7 +2,7 @@
 <div>
   <h3>About me</h3>
   <ul>
-    <li>I am a front-end developer</li>
+    <li>Front-end developer</li>
     <li>22 y.o</li>
     <li>C1 level of English, B1 level of Polish</li>
   </ul>
