@@ -1,8 +1,8 @@
 # Hi there, I'm Alexey 👋
 
   ### About me
-  - Front-end developer
-  - 22 y.o</li>
+  - Front-end developer (React)
+  - 22 y.o
   - C1 level of English, B1 level of Polish
  
   ### Skills:
