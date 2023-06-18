@@ -21,9 +21,9 @@
   </div>
 
   ## Contact me: 
-  <a href="mailto:alexanikeenko317@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a/>
+  <a href="https://www.linkedin.com/in/aliaksei-anikeyenka/" target="_blank">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
    
  
 
