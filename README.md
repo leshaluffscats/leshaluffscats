@@ -2,7 +2,7 @@
 
   ### About me
   - Front-end developer (Angular, React)
-  - 22 y.o
+  - 23 y.o
   - C1 level of English, B1 level of Polish
  
   ### Skills:
